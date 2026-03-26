@@ -98,9 +98,6 @@ o	Use:
 	Users automatically routed to healthy region
 	Near zero downtime
 
-
-
-
 •	Option 3: Geo-redundant storage
 	Data replicated automatically across paired regions
 	Helps with data recovery, not full app failover
