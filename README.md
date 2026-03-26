@@ -29,6 +29,7 @@ Used with: Availability Set’s (legacy but still valid)
 Example:
 3 VMs in an Availability Set:
 •	VM1 → FD0, UD0
+
 •	VM2 → FD1, UD1
 •	VM3 → FD0, UD2
 
