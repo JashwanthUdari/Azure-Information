@@ -1,0 +1,14 @@
+RG_name = "Jashu-RG"
+Vnet_name = "Jashu-Vnet"
+Vnet_address = ["10.0.0.0/16"]
+Subnet_name = "Jashu-Subnet"
+Subnet_address = ["10.0.1.0/24"]
+Public_ip_name = "Jashu-PublicIP"
+NIC_name = "Jashu-NIC"
+NSG_name = "Jashu-NSG"
+VM_name = "Jashu-VM"
+VM_SKU = "Standard_DS1_v2"
+admin_username = "azureuser"
+Datadisk_name = "Jashu-DataDisk"
+Datadisk_type = "Standard_LRS"
+Datadisk_size = 10
